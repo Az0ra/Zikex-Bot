@@ -1,0 +1,2 @@
+# Zikex-Bot
+Bot Discord
